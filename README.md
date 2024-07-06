@@ -1,4 +1,4 @@
-<img width="100%" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" />
+<img width="100%" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" />
 <h1 align="center">Hi 👋, I'm Chinekezi Ikecukwu</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img width="100%" src="https://rajacepat.com/assets/frontend/img/webdev.gif" />
