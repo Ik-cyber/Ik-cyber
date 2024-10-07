@@ -1,6 +1,6 @@
 <img width="100%" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" />
 <h1 align="center">Hi 👋, I'm Chinekezi Ikecukwu</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate 17yr old fullstack developer from Nigeria</h3>
 <img width="100%" src="https://rajacepat.com/assets/frontend/img/webdev.gif" />
 
 - 🔭 I’m currently working on **Health Management Web Application**
