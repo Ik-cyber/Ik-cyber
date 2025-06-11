@@ -1,21 +1,59 @@
-<img width="100%" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" />
-<h1 align="center">Hi 👋, I'm Chinekezi Ikecukwu</h1>
-<h3 align="center">A passionate 17yr old fullstack developer from Nigeria</h3>
-<img width="100%" src="https://rajacepat.com/assets/frontend/img/webdev.gif" />
+# Hey there! 👋 I'm Ik
 
-- 🔭 I’m currently working on **Health Management Web Application**
+🚀 I’m passionate about building **fast, efficient, and beautiful tools**.  
+🛠️ I love working with low-level systems, modern APIs, and customized Linux environments.  
 
-- 🌱 I’m currently learning **Machine Learning with Python, R (Rust)**
+---
 
-- 💬 Ask me about **React, Nodejs, Express, MongoDB and Anything related to the MERN Stack**
+## ⚡ Tech Stack
 
-- 📫 How to reach me **chinekezii@gmail.com, numterminal@gmail.com**
-
-- ⚡ Fun fact **I play alot of CODM**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" alt="Go" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="50" alt="Neovim" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🖥️ Linux Rice
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hyprland-00BFFF?style=for-the-badge&logo=wayland&logoColor=white" alt="Hyprland" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Waybar-222222?style=for-the-badge&logo=polybar&logoColor=white" alt="Waybar" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Neovim%20Rice-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim Rice" />
+</p>
+
+---
+
+## 🔧 Currently Building
+- ⚙️ **Performance-focused tools** with Go & C++
+- 🧩 **Custom APIs** using TypeScript
+- 🎨 **Aesthetic Linux setups** with Hyprland & Waybar
+- 🛠️ **Fully customized Neovim workflow**
+
+---
+
+## 📫 Let's Connect!
+<p align="center">
+  <a href="https://github.com/Ik-cyber">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="numterminal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<!--- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p> --->
