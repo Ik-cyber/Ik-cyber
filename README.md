@@ -21,15 +21,6 @@
 
 ---
 
-## 🖥️ Linux Rice
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hyprland-00BFFF?style=for-the-badge&logo=wayland&logoColor=white" alt="Hyprland" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Waybar-222222?style=for-the-badge&logo=polybar&logoColor=white" alt="Waybar" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Neovim%20Rice-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim Rice" />
-</p>
 
 ---
 
