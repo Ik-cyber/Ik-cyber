@@ -8,7 +8,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="50" alt="Rust" />
+  <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" width="50" alt="Rust" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" alt="Go" />
   &nbsp;
