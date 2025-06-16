@@ -29,8 +29,6 @@ I don't just code. I engineer experiences.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" alt="Go" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" />
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" />
@@ -75,8 +73,7 @@ I don't just code. I engineer experiences.
 
 ---
 
-<!--- Optional GitHub Stats Section -->
-<!---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ik-cyber&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
