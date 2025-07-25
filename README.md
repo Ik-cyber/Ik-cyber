@@ -1,13 +1,17 @@
-# Hey there, I'm Ik 👋
+# Listen up, mortals 🧪
 
-Welcome to my little corner of the internet...
+*"I'm gonna need you to take your slow, bloated code and shove it waaaaay up your... repository."*
 
-I'm a **systems enthusiast** who lives for building things that are:
+Look, I don't have time to explain why your framework choice is terrible, but I'll build you something that actually works.
+
+I'm a **systems enthusiast** who builds things the right way:
 - ⚡ **Lightning fast**
 - ⚙️ **Elegantly modular** 
 - 💅 **Beautifully engineered**
 
 If it's **low-level**, **performance-tuned**, or **aesthetic as hell**, I'm obsessed with it.
+
+*No shortcuts. No compromises. No exceptions.*
 
 ---
 
@@ -51,6 +55,8 @@ Clean code > Clever code
 Modularity > Monoliths  
 Performance > Convenience
 Beauty > "It works"
+Quality > Quantity
+Standards > Shortcuts
 ```
 
 ---
@@ -70,7 +76,8 @@ Beauty > "It works"
 ---
 
 <p align="center">
-  <i>"The details are not the details. They make the design."</i>
+  <i>"The details are not the details. They make the design."</i><br>
+  <sub>— Excellence isn't negotiable</sub>
 </p>
 
 ---
@@ -80,13 +87,10 @@ Beauty > "It works"
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ik-cyber&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ik-cyber&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Top Languages">
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ik-cyber&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 -->
-
