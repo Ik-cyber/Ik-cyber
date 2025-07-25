@@ -76,8 +76,17 @@ Beauty > "It works"
 ---
 
 <!--- Optional GitHub Stats Section -->
-<!---
+<!-- 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ik-cyber&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ik-cyber&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
 </p>
---->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ik-cyber&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ik-cyber&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
+-->
+
