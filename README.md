@@ -94,6 +94,5 @@ Standards > Shortcuts
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ik-cyber&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 -->
-> "Listen Morty, *burp* greatness isn't some microwave bullshit you heat up in thirty seconds. It's a slow-cook process, like my interdimensional whiskey or your grandfather's crippling alcoholism. You think I became the smartest man in the universe overnight? I failed more times than you've jerked off, which is saying something. But here's the thing - every failure, every 'oops I accidentally created a cronenberg dimension' moment, it's all part of the recipe. So to everyone who says we can't make it, to the Galactic Federation, to your dad, to basic physics itself - *burp* - go fuck yourselves. We'll show them what greatness looks like, one catastrophic experiment at a time."
-
-> — **Rick Sanchez**
+> *"Morty, greatness isn’t some microwave meal you zap for 30 seconds. It’s a slow-cook disaster – full of failures, cronenberg dimensions, and maybe a little interdimensional whiskey. But every screw-up? That’s just part of the recipe. So to everyone who says we can’t make it – physics, the Galactic Federation, your dad – we’ll show them what greatness looks like… one chaotic experiment at a time."*  
+> — **Rick Sanchez**
