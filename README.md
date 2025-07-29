@@ -98,3 +98,25 @@ Standards > Shortcuts
 > — **Rick Sanchez**
 
 -->
+### Ik-cyber
+
+I build fast, clean systems and tools that work beautifully.
+
+Currently working on CLI tools in Go & Rust, API architectures with TypeScript/Node.js, and crafting minimal Linux environments.
+
+- [GitHub](https://github.com/Ik-cyber)
+- [Email](mailto:numterminal@gmail.com)
+
+I focus on performance-first development and elegant system design.
+
+You might know me from:
+- Building blazing-fast CLI utilities
+- Crafting modular TypeScript architectures  
+- Linux rice configurations with Hyprland
+
+**Tech:** Rust, Go, TypeScript, Node.js, React, Next.js, Linux, Neovim
+
+#### Contact:
+- Email: `numterminal <at> gmail.com`
+
+⚡ Fun fact: I believe milliseconds matter and clean code beats clever code every time.
