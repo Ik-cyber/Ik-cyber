@@ -114,9 +114,18 @@ You might know me from:
 - Crafting modular TypeScript architectures  
 - Linux rice configurations with Hyprland
 
-**Tech:** Rust, Go, TypeScript, Node.js, React, Next.js, Linux, Neovim
+**Tech:** 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,go,typescript,nodejs,react,nextjs,linux,neovim" />
+  </a>
+</p>
 
 #### Contact:
 - Email: `numterminal <at> gmail.com`
 
 ⚡ Fun fact: I believe milliseconds matter and clean code beats clever code every time.
+
+
+> *"The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly."* 
+> — **Donald Knuth**
