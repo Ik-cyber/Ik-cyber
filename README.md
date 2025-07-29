@@ -93,6 +93,8 @@ Standards > Shortcuts
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ik-cyber&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
--->
+
 > *"Morty, greatness isn’t some microwave meal you zap for 30 seconds. It’s a slow-cook disaster – full of failures, cronenberg dimensions, and maybe a little interdimensional whiskey. But every screw-up? That’s just part of the recipe. So to everyone who says we can’t make it – physics, the Galactic Federation, your dad – we’ll show them what greatness looks like… one chaotic experiment at a time."*  
 > — **Rick Sanchez**
+
+-->
