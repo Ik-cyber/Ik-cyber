@@ -122,7 +122,7 @@ You might know me from:
 </p>
 
 #### Contact:
-- Email: numterminal <at> gmail.com
+- Email: `numterminal <at> gmail.com`
 
 ⚡ Fun fact: I believe milliseconds matter and clean code beats clever code every time.
 
